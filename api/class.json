@@ -1,0 +1,108 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    },{
+      "cno": "10022",
+      "majorName": "网络工程",
+      "joinDate": "2017-09-01",
+      "leaveDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "telephone": 18235749679,
+      "counsellor": "李四",
+      "telephoneTel": 15383433434,
+      "remark": "无"
+    }
+  ]
+}

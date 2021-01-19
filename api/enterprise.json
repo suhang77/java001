@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+     "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+     "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+     "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+     "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+      "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+      "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+     "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    },{
+     "cname": "北京科蓝",
+      "city": "北京",
+      "address": "北京东城区",
+      "trade": "IT行业",
+      "leader": "吴女士",
+      "telephone": "15151511234",
+      "job": "Java开发",
+       "joinDate": "2021-01-01",
+      "status": "1"
+    }
+  ]
+}
